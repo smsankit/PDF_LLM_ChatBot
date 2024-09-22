@@ -31,4 +31,4 @@ Upload and process the PDF file from side menu and then ask your questions
 
 
 **High Level Diagram -** 
-![alt text](LLM_HL_Arch_Diagram.jpg)
+LLM_HL_Arch_Diagram.jpg
